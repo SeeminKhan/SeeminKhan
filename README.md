@@ -2,15 +2,12 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seeminkhan&label=Profile%20views&color=0e75b6&style=flat" alt="seeminkhan" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seeminkhan" alt="seeminkhan" /></a> </p>
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">💼 Full Stack Developer passionate about solving real-world problems through MERN stack and innovative technologies.</p>
 <p align="left">🌱 Currently learning DSA and diving deeper into Next.js and TypeScript to stay ahead in modern development trends.</p>
 <p align="left">🚀 Aspiring to build scalable and meaningful applications for users worldwide.</p>
 <p align="left">🧠 Problem-solving mindset combined with a knack for creating visually appealing, responsive designs.</p>
-
-<h3 align="left">📫 Reach me at **seeminkhan2708@gmail.com**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
