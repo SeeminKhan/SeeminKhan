@@ -9,7 +9,7 @@
 <p align="left">🚀 Aspiring to build scalable and meaningful applications for users worldwide.</p>
 <p align="left">🧠 Problem-solving mindset combined with a knack for creating visually appealing, responsive designs.</p>
 
-
+- 📫 How to reach me **seeminkhan2708@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
