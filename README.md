@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=SeeminKhan&label=PROFILE%20VIEWS&color=ff7b72&style=flat-square" />
+</p>
+
 <p><code>seemin@devOS:~$ whoami</code></p>
 
 ```ini
